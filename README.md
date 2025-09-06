@@ -18,7 +18,8 @@ A simple TypeScript workshop
     ```bash
     tsc
 3. run
-    ```node dist/index.js
+    ```bash
+    node dist/index.js
 
 And here you go
 
